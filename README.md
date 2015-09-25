@@ -13,12 +13,12 @@
 
 ### Input
 ```html
-
+<div ng-bind="data"></div>
 ```
 
 ### Output
 ```html
-
+<div data-ng-bind="data"></div>
 ```
 
 ## Licence
